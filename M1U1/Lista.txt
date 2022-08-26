@@ -2,15 +2,15 @@ Lista de Estados de Venezuela
 Distrito Capital
 Miranda
 Carabobo
-Maracay
+Aragua
 Anzoategui
 Sucre
 Monagas
 Guarico
-Maracaibo
+Zulia
 Falcon
 Apure
-Deltamacuro
+Delta Amacuro
 Merida
 Tachira
 Monagas
@@ -20,4 +20,10 @@ Vargas
 Lara
 Cojedes
 Barinas
+Portuguesa
+Trujillo
+Yaracuy
+Nueva Esparta
+
+
 
