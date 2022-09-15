@@ -1,0 +1,60 @@
+p{
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 5%;
+}
+
+h3{
+    color: white;
+    background-color: rgb(65, 119, 226);
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+h1{
+   color: white;
+   font-style: normal; 
+   text-shadow: 4px 4px 2px rgba(38,111,231,0.6);
+   font-size: 50px;
+   font-weight: bold;
+   text-indent: 40%;
+   background-color: rgb(65, 119, 226);
+   
+}
+
+h4{
+    color:white;  
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-indent: 5%;
+
+}
+
+ol{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    border: 7px outset #85aaf4;
+ 
+}
+
+div{
+    background-color: black;
+}
+
+
